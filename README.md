@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-openai](backend/modules)
 - [react-native-mixpanel-analytics](modules/mixpanel-analytics)
 - [payments]()
+- [react-native-pdf-viewer](modules/pdfviewer)
 
 # Getting started: Frontend
 
