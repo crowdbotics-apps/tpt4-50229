@@ -61,6 +61,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-ocr](backend/modules)
 - [django-openai](backend/modules)
 - [react-native-mixpanel-analytics](modules/mixpanel-analytics)
+- [payments]()
 
 # Getting started: Frontend
 
