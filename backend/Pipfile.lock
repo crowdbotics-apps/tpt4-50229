@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "7888af1edd4151dda686549bd2100f3fc3ac8b9e6a19a8a767f3caed5c7e66a0"
+            "sha256": "ba5dac528fe26722721c258ba953c380a63d7a2f6d4375465dbe1cbbacc0d45d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -103,6 +103,10 @@
         "cb-django-openai": {
             "editable": true,
             "path": "./modules/django_openai"
+        },
+        "cb-django-signature": {
+            "editable": true,
+            "path": "./modules/django_signature"
         },
         "cb-payments": {
             "editable": true,
