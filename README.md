@@ -60,6 +60,7 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [django-ocr](backend/modules)
 - [django-openai](backend/modules)
+- [react-native-mixpanel-analytics](modules/mixpanel-analytics)
 
 # Getting started: Frontend
 
